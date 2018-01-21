@@ -1,0 +1,10 @@
+C:\Documents and Settings\Harding\Local Settings\Application Data\Temporary Projects\FizzBuzzConsoleApplication\bin\Debug\FizzBuzzConsoleApplication.exe
+C:\Documents and Settings\Harding\Local Settings\Application Data\Temporary Projects\FizzBuzzConsoleApplication\bin\Debug\FizzBuzzConsoleApplication.pdb
+C:\Documents and Settings\Harding\Local Settings\Application Data\Temporary Projects\FizzBuzzConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Harding\Local Settings\Application Data\Temporary Projects\FizzBuzzConsoleApplication\obj\Debug\FizzBuzzConsoleApplication.exe
+C:\Documents and Settings\Harding\Local Settings\Application Data\Temporary Projects\FizzBuzzConsoleApplication\obj\Debug\FizzBuzzConsoleApplication.pdb
+C:\Documents and Settings\Harding\My Documents\Visual Studio 2008\Projects\FizzBuzzConsoleApplication\FizzBuzzConsoleApplication\obj\Debug\FizzBuzzConsoleApplication.exe
+C:\Documents and Settings\Harding\My Documents\Visual Studio 2008\Projects\FizzBuzzConsoleApplication\FizzBuzzConsoleApplication\obj\Debug\FizzBuzzConsoleApplication.pdb
+C:\Documents and Settings\Harding\My Documents\Visual Studio 2008\Projects\FizzBuzzConsoleApplication\FizzBuzzConsoleApplication\bin\Debug\FizzBuzzConsoleApplication.exe
+C:\Documents and Settings\Harding\My Documents\Visual Studio 2008\Projects\FizzBuzzConsoleApplication\FizzBuzzConsoleApplication\bin\Debug\FizzBuzzConsoleApplication.pdb
+C:\Documents and Settings\Harding\My Documents\Visual Studio 2008\Projects\FizzBuzzConsoleApplication\FizzBuzzConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
